@@ -8,3 +8,28 @@ Iteration 7 reward = 229.01
 Iteration 8 reward = 258.17
 Iteration 9 reward = 289.82
 =======Training time: 150.22=========
+
+Every 1.0s: ray status                                                                                                             dahu-24.grenoble.grid5000.fr: Mon Jan  5 15:11:37 2026
+
+======== Autoscaler status: 2026-01-05 15:11:35.862257 ========
+Node status
+---------------------------------------------------------------
+Active:
+ 1 node_42c3851009464cf64d59aa68c89157302b5ff1c9ee0fd9041062f3c9
+Pending:
+ (no pending nodes)
+Recent failures:
+ (no failures)
+
+Resources
+---------------------------------------------------------------
+Total Usage:
+ 1.0/64.0 CPU
+ 0B/119.66GiB memory
+ 9.77KiB/51.28GiB object_store_memory
+
+From request_resources:
+ (none)
+Pending Demands:
+ (no resource demands)
+
