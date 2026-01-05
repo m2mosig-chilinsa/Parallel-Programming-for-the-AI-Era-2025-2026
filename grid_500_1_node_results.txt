@@ -1,0 +1,10 @@
+Iteration 1 reward = 43.09
+Iteration 2 reward = 72.59
+Iteration 3 reward = 102.51
+Iteration 4 reward = 135.33
+Iteration 5 reward = 166.64
+Iteration 6 reward = 200.11
+Iteration 7 reward = 229.01
+Iteration 8 reward = 258.17
+Iteration 9 reward = 289.82
+=======Training time: 150.22=========
