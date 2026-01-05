@@ -1,0 +1,5 @@
+Using command watch -n 1 "ray status" we can that there 2 ray proccess runnign
+Total Usage:
+ 2.0/128.0 CPU
+ 0B/251.04GiB memory
+ 9.77KiB/107.59GiB object_store_memory
